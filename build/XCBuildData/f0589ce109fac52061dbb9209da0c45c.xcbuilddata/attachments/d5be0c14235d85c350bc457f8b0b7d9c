@@ -1,0 +1,636 @@
+{
+  "" : {
+    "const-values" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary.swiftconstvalues",
+    "dependencies" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary.d",
+    "diagnostics" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary.dia",
+    "emit-module-dependencies" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary-emit-module.dia",
+    "pch" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp-primary.swiftdeps"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/App/AppCoordinator.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppCoordinator.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/App/AppRouter.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppRouter.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppRouter.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppRouter.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/App/CreatorStudioApp.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CreatorStudioApp.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/App/RootView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RootView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RootView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RootView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Constants/AppConstants.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppConstants.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppConstants.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppConstants.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Constants/FileNames.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FileNames.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FileNames.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FileNames.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Constants/PermissionKeys.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PermissionKeys.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PermissionKeys.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PermissionKeys.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Extensions/AVCaptureDevice+Extension.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AVCaptureDevice+Extension.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AVCaptureDevice+Extension.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AVCaptureDevice+Extension.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Extensions/CMSampleBuffer+Extension.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CMSampleBuffer+Extension.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CMSampleBuffer+Extension.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CMSampleBuffer+Extension.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Extensions/Color+Extension.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/Color+Extension.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/Color+Extension.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/Color+Extension.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Extensions/URL+Extension.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/URL+Extension.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/URL+Extension.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/URL+Extension.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Extensions/View+Extension.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/View+Extension.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/View+Extension.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/View+Extension.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Helpers/AudioHelper.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioHelper.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioHelper.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioHelper.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Helpers/FileManagerHelper.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FileManagerHelper.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FileManagerHelper.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FileManagerHelper.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Helpers/Logger.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/Logger.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Helpers/TimeFormatter.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TimeFormatter.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TimeFormatter.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TimeFormatter.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Helpers/VideoHelper.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoHelper.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoHelper.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoHelper.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Managers/AppStateManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppStateManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppStateManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AppStateManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Managers/NetworkMonitor.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkMonitor.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkMonitor.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkMonitor.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Managers/StorageManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StorageManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StorageManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StorageManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Permissions/CameraPermissionManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPermissionManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPermissionManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPermissionManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Permissions/MicrophonePermissionManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MicrophonePermissionManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MicrophonePermissionManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MicrophonePermissionManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Permissions/PermissionCoordinator.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PermissionCoordinator.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PermissionCoordinator.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PermissionCoordinator.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Core/Permissions/SpeechPermissionManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechPermissionManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechPermissionManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechPermissionManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/AudioAnalysis/Components/AudioMeterView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioMeterView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioMeterView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioMeterView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/AudioAnalysis/Components/WaveformView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/WaveformView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/WaveformView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/WaveformView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/AudioAnalysis/Screens/AudioAnalysisScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalysisScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalysisScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalysisScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/AudioAnalysis/ViewModels/AudioAnalysisViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalysisViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalysisViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalysisViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Components/CameraControlsView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraControlsView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraControlsView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraControlsView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Components/CameraPreview.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPreview.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPreview.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPreview.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Components/CameraToolbar.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraToolbar.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraToolbar.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraToolbar.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Components/CaptureButton.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CaptureButton.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CaptureButton.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CaptureButton.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Components/MultiCamPreview.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamPreview.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamPreview.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamPreview.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Components/PlayerPreview.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerPreview.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerPreview.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerPreview.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Screens/CameraScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Screens/GalleryScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/GalleryScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/GalleryScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/GalleryScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Screens/PhotoViewerScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoViewerScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoViewerScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoViewerScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/ViewModels/CameraViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Common/HomeView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/HomeView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Common/SplashScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SplashScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SplashScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SplashScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Components/FaceStatusView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceStatusView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceStatusView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceStatusView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Components/InterviewToolbar.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewToolbar.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewToolbar.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewToolbar.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Components/LiveTranscriptView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/LiveTranscriptView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/LiveTranscriptView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/LiveTranscriptView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Managers/InterviewSessionManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewSessionManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewSessionManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewSessionManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Screens/InterviewScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/ViewModels/InterviewViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/InterviewViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/MultiCam/Components/MultiCamControls.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamControls.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamControls.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamControls.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/MultiCam/Screens/MultiCamScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/MultiCam/ViewModels/MultiCamViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Components/PlaybackControls.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlaybackControls.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlaybackControls.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlaybackControls.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Components/SeekBarView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SeekBarView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SeekBarView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SeekBarView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Screens/AudioPlayerScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioPlayerScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioPlayerScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioPlayerScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Screens/MediaLibraryScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaLibraryScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaLibraryScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaLibraryScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Screens/VideoPlayerScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoPlayerScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoPlayerScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoPlayerScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/ViewModels/MediaPlayerViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaPlayerViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaPlayerViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaPlayerViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Components/SpeechControlPanel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechControlPanel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechControlPanel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechControlPanel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Components/TranscriptView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Screens/TTSPlaygroundScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TTSPlaygroundScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TTSPlaygroundScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TTSPlaygroundScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Screens/TranscriptScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/ViewModels/SpeechViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Streaming/Components/NetworkStatusView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkStatusView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkStatusView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkStatusView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Streaming/Components/StreamStatisticsView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamStatisticsView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamStatisticsView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamStatisticsView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Streaming/Screens/StreamingDebugScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamingDebugScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamingDebugScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamingDebugScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Streaming/ViewModels/StreamingViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamingViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamingViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamingViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoEditor/Components/ExportButton.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ExportButton.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ExportButton.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ExportButton.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoEditor/Components/TimelineView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TimelineView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TimelineView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TimelineView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoEditor/Components/TrimSlider.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TrimSlider.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TrimSlider.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TrimSlider.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoEditor/Screens/VideoEditorScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoEditorScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoEditorScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoEditorScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoEditor/ViewModels/VideoEditorViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoEditorViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoEditorViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoEditorViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoRecording/Components/RecordButton.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordButton.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordButton.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordButton.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoRecording/Components/RecordingTimerView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordingTimerView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordingTimerView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordingTimerView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoRecording/Screens/VideoLibraryScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoLibraryScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoLibraryScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoLibraryScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoRecording/Screens/VideoRecorderScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoRecording/ViewModels/VideoRecorderViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Components/FaceBoundingBox.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceBoundingBox.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceBoundingBox.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceBoundingBox.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Components/FaceOverlayView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceOverlayView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceOverlayView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceOverlayView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Screens/FaceDetectionScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Screens/FaceTrackingScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Screens/OCRScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/OCRScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/OCRScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/OCRScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Screens/ScannerScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ScannerScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ScannerScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ScannerScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/ViewModels/FaceDetectionViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/ViewModels/FaceTrackingViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VoiceRecorder/Components/AudioLevelView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioLevelView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioLevelView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioLevelView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VoiceRecorder/Components/RecordingControls.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordingControls.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordingControls.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/RecordingControls.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VoiceRecorder/Screens/VoiceMemoScreen.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VoiceMemoScreen.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VoiceMemoScreen.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VoiceMemoScreen.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VoiceRecorder/ViewModels/VoiceMemoViewModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VoiceMemoViewModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VoiceMemoViewModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VoiceMemoViewModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Audio/AudioRecordingModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioRecordingModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioRecordingModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioRecordingModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Photo/PhotoModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Shared/MediaType.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaType.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaType.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MediaType.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Speech/SpeechSettingsModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechSettingsModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechSettingsModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechSettingsModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Speech/TranscriptModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TranscriptModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Streaming/StreamStatistics.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamStatistics.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamStatistics.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamStatistics.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Video/VideoModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Models/Vision/FaceModel.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceModel.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceModel.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceModel.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Audio/AudioAnalyzer.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalyzer.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalyzer.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioAnalyzer.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Audio/AudioEngineService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioEngineService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioEngineService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioEngineService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Audio/AudioPlayerService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioPlayerService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioPlayerService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioPlayerService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Audio/AudioRecorderService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioRecorderService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioRecorderService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioRecorderService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Audio/AudioSessionService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioSessionService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioSessionService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/AudioSessionService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Camera/CameraService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Camera/FrameCaptureService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FrameCaptureService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FrameCaptureService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FrameCaptureService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Camera/MultiCamService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Camera/PhotoCaptureService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoCaptureService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoCaptureService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PhotoCaptureService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Camera/VideoRecorderService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoRecorderService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Editing/ExportService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ExportService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ExportService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ExportService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Editing/VideoCompositionService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoCompositionService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoCompositionService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoCompositionService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Playback/VideoPlayerService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoPlayerService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoPlayerService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/VideoPlayerService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Speech/SpeechRecognitionService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechRecognitionService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechRecognitionService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SpeechRecognitionService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Speech/TextToSpeechService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TextToSpeechService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TextToSpeechService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/TextToSpeechService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Streaming/NetworkStreamService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkStreamService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkStreamService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/NetworkStreamService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Streaming/StreamEncoder.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamEncoder.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamEncoder.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamEncoder.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Streaming/StreamManager.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamManager.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamManager.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/StreamManager.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Vision/FaceDetectionService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceDetectionService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Vision/FaceGenderClassifier.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceGenderClassifier.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceGenderClassifier.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceGenderClassifier.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Vision/FaceTrackingService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/FaceTrackingService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Vision/OCRService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/OCRService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/OCRService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/OCRService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Services/Vision/ScannerService.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ScannerService.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ScannerService.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/ScannerService.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/Camera/CameraLayerView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraLayerView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraLayerView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraLayerView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/Camera/CameraPreviewView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPreviewView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPreviewView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraPreviewView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/Camera/CameraViewController.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewController.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewController.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewController.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/MultiCam/MultiCamPreviewView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamPreviewView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamPreviewView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamPreviewView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/MultiCam/MultiCamViewController.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamViewController.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamViewController.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/MultiCamViewController.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/Player/PlayerContainerView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerContainerView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerContainerView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerContainerView.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/UIKitBridge/Player/PlayerViewController.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerViewController.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerViewController.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/PlayerViewController.o"
+  },
+  "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

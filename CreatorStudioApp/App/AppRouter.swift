@@ -2,6 +2,7 @@ import SwiftUI
 
 enum AppRouter {
     enum Tab: String, CaseIterable, Identifiable {
+        case home = "home"
         case camera = "camera"
         case media = "media"
         case speech = "speech"
@@ -12,6 +13,7 @@ enum AppRouter {
 
         var title: String {
             switch self {
+            case .home: return "Home"
             case .camera: return "Camera"
             case .media: return "Media"
             case .speech: return "Speech"
@@ -22,6 +24,7 @@ enum AppRouter {
 
         var icon: String {
             switch self {
+            case .home: return "house.fill"
             case .camera: return "camera.fill"
             case .media: return "photo.on.rectangle"
             case .speech: return "waveform"
@@ -33,6 +36,8 @@ enum AppRouter {
         @ViewBuilder
         var destination: some View {
             switch self {
+            case .home:
+                HomeView()
             case .camera:
                 CameraScreen()
             case .media:

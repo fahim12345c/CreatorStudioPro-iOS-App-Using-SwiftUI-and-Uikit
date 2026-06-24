@@ -3,7 +3,7 @@ import Combine
 
 @MainActor
 final class AppCoordinator: ObservableObject {
-    @Published var selectedTab: AppRouter.Tab = .camera
+    @Published var selectedTab: AppRouter.Tab = .home
     @Published var navigationPath = NavigationPath()
     @Published var activeSheet: AppRouter.Sheet?
     @Published var showPermissions = false

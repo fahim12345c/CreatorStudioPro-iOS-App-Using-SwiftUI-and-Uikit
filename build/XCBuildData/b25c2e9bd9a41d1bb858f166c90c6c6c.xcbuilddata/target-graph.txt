@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'CreatorStudioApp' in project 'CreatorStudioApp' (no dependencies)

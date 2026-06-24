@@ -198,6 +198,11 @@
     "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewModel.bc",
     "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/CameraViewModel.o"
   },
+  "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Common/HomeView.swift" : {
+    "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/HomeView.o"
+  },
   "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Common/SplashScreen.swift" : {
     "index-unit-output-path" : "/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SplashScreen.o",
     "llvm-bc" : "/Users/fahim/Developer/project/CreatorStudioApp/build/CreatorStudioApp.build/Release-iphoneos/CreatorStudioApp.build/Objects-normal/arm64/SplashScreen.bc",
