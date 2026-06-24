@@ -234,7 +234,7 @@ graph LR
 
     subgraph VM["ViewModel Layer"]
         C[ObservableObject]
-        D[@Published Properties]
+        D[Published Properties]
         E[User Actions]
     end
 
