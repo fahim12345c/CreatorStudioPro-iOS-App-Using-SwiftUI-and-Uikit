@@ -8,6 +8,7 @@ CreatorStudioPro is a production-grade iOS application that consolidates every m
 
 ## Table of Contents
 
+- [Demo Video](#demo-video)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Real-World Problems Solved](#real-world-problems-solved)
@@ -18,6 +19,14 @@ CreatorStudioPro is a production-grade iOS application that consolidates every m
 - [Project Structure](#project-structure)
 - [Technical Decisions](#technical-decisions)
 - [License](#license)
+
+---
+
+## Demo Video
+
+[![CreatorStudioPro Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1cgzf2Sxw4uuRuDnHwKKM3gIUfZRmCB9N/view?usp=sharing)
+
+> Watch the full demo of CreatorStudioPro in action — camera capture, face detection with gender classification, speech transcription, OCR, barcode scanning, audio recording, and live streaming.
 
 ---
 
@@ -42,6 +51,7 @@ CreatorStudioPro is a production-grade iOS application that consolidates every m
 | | Text-to-Speech Playground | Experiment with TTS voices and settings |
 | | OCR | Extract text from images using Vision framework |
 | | QR & Barcode Scanner | Scan QR codes, EAN-13, EAN-8, Code 128, UPC-E |
+| | Expiry Date Checker | Check product expiry dates from packaging photos |
 | | Streaming Debug | Configure and test RTMP/HLS streaming |
 
 ---
@@ -419,6 +429,51 @@ sequenceDiagram
             end
         end
     end
+```
+
+### Expiry Date Checker
+
+```mermaid
+sequenceDiagram
+    participant User
+    participant ExpiryCheckScreen
+    participant ExpiryCheckViewModel
+    participant ExpiryCheckService
+    participant OCRService
+    participant Vision
+
+    User->>ExpiryCheckScreen: Tap "Photo Library" or "Camera"
+    ExpiryCheckScreen->>ExpiryCheckScreen: Open image picker
+    ExpiryCheckScreen-->>ExpiryCheckScreen: Selected image
+    ExpiryCheckScreen->>ExpiryCheckViewModel: processImage(uiImage)
+
+    ExpiryCheckViewModel->>ExpiryCheckService: checkExpiry(in: image)
+    ExpiryCheckService->>OCRService: recognizeText(in: image)
+    OCRService->>Vision: VNRecognizeTextRequest
+    Note over Vision: Recognition level: Accurate<br/>Languages: en-US, en-GB
+    Vision-->>OCRService: [VNRecognizedTextObservation]
+    OCRService-->>ExpiryCheckService: [OCRResult]
+
+    loop For each text line
+        ExpiryCheckService->>ExpiryCheckService: Search MFG/MFD/EXP/BB keywords
+        ExpiryCheckService->>ExpiryCheckService: Parse date from line
+        Note over ExpiryCheckService: Supported formats:<br/>DDMMYY, MMDDYY<br/>DD MMM YYYY, YYYY-MM-DD<br/>dd/MM/yyyy, MM/dd/yyyy
+    end
+
+    ExpiryCheckService-->>ExpiryCheckViewModel: ExpiryCheckResult
+
+    ExpiryCheckViewModel->>ExpiryCheckViewModel: Compare expiry date vs today
+
+    alt Expiry date found
+        ExpiryCheckViewModel-->>ExpiryCheckScreen: Show status card
+        Note over ExpiryCheckScreen: EXPIRED (red)<br/>NOT EXPIRED (green)<br/>Expiring Soon ≤30 days (orange)
+        ExpiryCheckViewModel-->>ExpiryCheckScreen: Show MFG → EXP date card
+    else No expiry date found
+        ExpiryCheckViewModel-->>ExpiryCheckScreen: Show error message
+    end
+
+    User->>ExpiryCheckScreen: Tap "Scan Another Product"
+    ExpiryCheckScreen->>ExpiryCheckViewModel: clear()
 ```
 
 ### Speech Recognition
