@@ -1,0 +1,40 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Components/InterviewToolbar.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "End",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Rec",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Record",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 29
+        }
+      }
+    ]
+  },
+  "version": 1
+}

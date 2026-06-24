@@ -1,0 +1,64 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoEditor/Screens/VideoEditorScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Video Editor",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export Complete",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start: %llds",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "End: %llds",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trim",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Video has been exported successfully.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 62
+        }
+      }
+    ]
+  },
+  "version": 1
+}

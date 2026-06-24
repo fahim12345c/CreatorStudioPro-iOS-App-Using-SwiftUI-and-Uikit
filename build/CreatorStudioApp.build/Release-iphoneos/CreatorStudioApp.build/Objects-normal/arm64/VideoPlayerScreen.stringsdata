@@ -1,0 +1,16 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Screens/VideoPlayerScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Video Player",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 39
+        }
+      }
+    ]
+  },
+  "version": 1
+}

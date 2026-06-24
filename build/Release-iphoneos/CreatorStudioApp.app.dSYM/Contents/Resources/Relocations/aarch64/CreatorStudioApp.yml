@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/fahim/Developer/project/CreatorStudioApp/build/Release-iphoneos/CreatorStudioApp.app/CreatorStudioApp'
+relocations:     []
+...

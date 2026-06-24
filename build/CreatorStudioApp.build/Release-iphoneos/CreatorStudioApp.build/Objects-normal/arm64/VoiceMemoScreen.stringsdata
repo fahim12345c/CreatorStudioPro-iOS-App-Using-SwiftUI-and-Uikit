@@ -1,0 +1,56 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VoiceRecorder/Screens/VoiceMemoScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Voice Memos",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Microphone Access Required",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable microphone access in Settings to record voice memos.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 65
+        }
+      }
+    ]
+  },
+  "version": 1
+}

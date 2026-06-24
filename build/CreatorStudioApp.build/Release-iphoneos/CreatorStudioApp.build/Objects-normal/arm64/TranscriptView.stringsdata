@@ -1,0 +1,16 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Components/TranscriptView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Listening",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

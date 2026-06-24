@@ -1,0 +1,16 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Screens/AudioPlayerScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Audio Player",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 41
+        }
+      }
+    ]
+  },
+  "version": 1
+}

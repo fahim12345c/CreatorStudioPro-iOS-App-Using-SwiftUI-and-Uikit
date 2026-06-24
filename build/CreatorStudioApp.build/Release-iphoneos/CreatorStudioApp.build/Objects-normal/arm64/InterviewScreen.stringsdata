@@ -1,0 +1,16 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Screens/InterviewScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Interview Assistant",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

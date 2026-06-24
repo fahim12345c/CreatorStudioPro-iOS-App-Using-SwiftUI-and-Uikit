@@ -1,0 +1,88 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Camera/Screens/CameraScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Camera Permission Required",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Video",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera Unavailable",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera hardware is not available on this device.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable camera access in Settings to use this feature.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Yes",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "No",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Would you like to save this recording?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 84
+        }
+      }
+    ]
+  },
+  "version": 1
+}

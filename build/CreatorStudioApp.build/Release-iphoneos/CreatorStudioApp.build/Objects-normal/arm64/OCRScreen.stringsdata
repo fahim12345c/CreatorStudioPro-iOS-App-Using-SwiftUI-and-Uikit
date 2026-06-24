@@ -1,0 +1,80 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Screens/OCRScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "OCR",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select Different Image",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select an Image",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose an image to extract text from",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Photo Library",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Extracting text...",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Extracted Text",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copy",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 79
+        }
+      }
+    ]
+  },
+  "version": 1
+}

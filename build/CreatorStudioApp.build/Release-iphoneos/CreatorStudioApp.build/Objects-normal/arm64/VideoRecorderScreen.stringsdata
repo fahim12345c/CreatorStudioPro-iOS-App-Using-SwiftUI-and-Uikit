@@ -1,0 +1,64 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/VideoRecording/Screens/VideoRecorderScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Video Recorder",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera Permission Required",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera Unavailable",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera hardware is not available on this device.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable camera access in Settings to record video.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 72
+        }
+      }
+    ]
+  },
+  "version": 1
+}

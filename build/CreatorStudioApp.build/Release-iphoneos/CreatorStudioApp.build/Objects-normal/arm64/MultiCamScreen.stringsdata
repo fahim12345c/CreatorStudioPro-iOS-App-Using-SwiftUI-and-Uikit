@@ -1,0 +1,64 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/MultiCam/Screens/MultiCamScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Multi-Cam",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera Permission Required",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Multi-Camera not supported",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "This device does not support simultaneous front and back camera capture.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable camera access in Settings to use Multi-Camera.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 44
+        }
+      }
+    ]
+  },
+  "version": 1
+}

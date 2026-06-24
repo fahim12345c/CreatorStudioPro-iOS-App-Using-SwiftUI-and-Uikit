@@ -1,0 +1,192 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/App/AppRouter.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tools",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recording",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analysis",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 180
+        }
+      },
+      {
+        "comment": "",
+        "key": "Creative",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 186
+        }
+      },
+      {
+        "comment": "",
+        "key": "Utilities",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Advanced",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice Recorder",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 176
+        }
+      },
+      {
+        "comment": "",
+        "key": "Audio Analysis",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "Text to Speech",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 188
+        }
+      },
+      {
+        "comment": "",
+        "key": "OCR - Text Recognition",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "QR & Barcode Scanner",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Streaming Debug",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 257
+        }
+      },
+      {
+        "comment": "",
+        "key": "Permissions",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Storage",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Microphone",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Speech",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 230
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear All Data",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 243
+        }
+      },
+      {
+        "comment": "",
+        "key": "Used",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 238
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 260
+        }
+      }
+    ]
+  },
+  "version": 1
+}

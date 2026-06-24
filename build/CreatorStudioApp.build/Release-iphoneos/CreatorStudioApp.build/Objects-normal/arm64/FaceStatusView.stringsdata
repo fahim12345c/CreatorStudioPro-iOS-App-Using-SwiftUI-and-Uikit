@@ -1,0 +1,16 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/InterviewAssistant/Components/FaceStatusView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 10
+        }
+      }
+    ]
+  },
+  "version": 1
+}

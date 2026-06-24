@@ -1,0 +1,48 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/AudioAnalysis/Components/AudioMeterView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Level",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Silent",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Avg: %lld dB",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Peak: %lld dB",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

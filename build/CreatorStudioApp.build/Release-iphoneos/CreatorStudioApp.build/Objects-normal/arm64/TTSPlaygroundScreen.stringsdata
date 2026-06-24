@@ -1,0 +1,48 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Screens/TTSPlaygroundScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Text to Speech",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter text to speak...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Speech Settings",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pitch: %.1f",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rate: %.2f",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      }
+    ]
+  },
+  "version": 1
+}

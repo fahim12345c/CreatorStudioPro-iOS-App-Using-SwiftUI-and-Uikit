@@ -1,0 +1,64 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Playback/Screens/MediaLibraryScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Media Library",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete %@?",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Media",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "This action cannot be undone.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 47
+        }
+      }
+    ]
+  },
+  "version": 1
+}

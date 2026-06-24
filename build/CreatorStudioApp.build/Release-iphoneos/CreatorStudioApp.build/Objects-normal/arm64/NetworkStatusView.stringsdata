@@ -1,0 +1,24 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Streaming/Components/NetworkStatusView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Connected",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 11
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disconnected",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 11
+        }
+      }
+    ]
+  },
+  "version": 1
+}

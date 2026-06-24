@@ -1,0 +1,24 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Screens/TranscriptScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Speech to Text",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Transcript History",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Speech/Components/SpeechControlPanel.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Stop",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 14
+        }
+      }
+    ]
+  },
+  "version": 1
+}

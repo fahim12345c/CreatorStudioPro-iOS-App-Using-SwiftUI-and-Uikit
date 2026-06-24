@@ -1,0 +1,24 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Common/SplashScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CreatorStudio",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera • Audio • Vision • Stream",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Streaming/Screens/StreamingDebugScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Streaming Debug",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stream URL (e.g. localhost:8080)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 8
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Streaming",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Streaming",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 18
+        }
+      }
+    ]
+  },
+  "version": 1
+}

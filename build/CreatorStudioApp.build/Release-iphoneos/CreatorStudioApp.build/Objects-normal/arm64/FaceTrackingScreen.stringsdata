@@ -1,0 +1,56 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/Vision/Screens/FaceTrackingScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Face Tracking",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera Unavailable",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Camera hardware is not available on this device.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tracking: %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tracking",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Face",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

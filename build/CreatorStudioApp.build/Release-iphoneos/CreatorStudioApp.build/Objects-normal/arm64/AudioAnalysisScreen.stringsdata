@@ -1,0 +1,32 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/AudioAnalysis/Screens/AudioAnalysisScreen.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Audio Analysis",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stop Analysis",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Analysis",
+        "location": {
+          "startingColumn": 68,
+          "startingLine": 37
+        }
+      }
+    ]
+  },
+  "version": 1
+}

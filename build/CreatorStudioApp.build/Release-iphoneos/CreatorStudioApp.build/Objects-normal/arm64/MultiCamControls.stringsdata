@@ -1,0 +1,24 @@
+{
+  "source": "/Users/fahim/Developer/project/CreatorStudioApp/CreatorStudioApp/Features/MultiCam/Components/MultiCamControls.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Stop Multi-Cam",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Multi-Cam",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 10
+        }
+      }
+    ]
+  },
+  "version": 1
+}
